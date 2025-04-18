@@ -1,2 +1,3 @@
-print('new 3rd file')
-print('for feature1')
+import socket
+a=socket.gethostbyname('youtube.com')
+print(a)
